@@ -1,4 +1,4 @@
-# 🧙‍♂️ GenAI Text Adventure
+# 🧙‍♂️ AI Text Adventure
 
 > **An infinite, AI-powered text adventure game where the story never plays the same way twice.**
 
